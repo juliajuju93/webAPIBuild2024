@@ -1,0 +1,12 @@
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webAPIBuild2024.exe
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\appsettings.json
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webapibuild2024.json
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webAPIBuild2024.dll
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webAPIBuild2024.deps.json
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webAPIBuild2024.runtimeconfig.json
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\webAPIBuild2024.pdb
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\build2024\webAPIBuild2024\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
