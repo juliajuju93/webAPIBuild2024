@@ -4,8 +4,8 @@
         "title": "APICenter-webAPIBuild2024",
         "description": "An ASP.NET Core Demo Web API for Build 2024",
         "contact": {
-            "name": "Julia Kasper",
-            "email": "jukasper@microsoft.com"
+            "name": "Bruce Moe",
+            "email": "brucemoe@microsoft.com"
         },
         "version": "05-23-2024"
     },
